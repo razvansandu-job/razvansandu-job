@@ -25,10 +25,10 @@ I started my journey exploring foundational logic and full-stack platforms, but 
 ---
 
 ### The Pragmatic Philosophy
-- **Anti-Bloat:** I value code that is functional and concise. If a solution is over-engineered, it's a liability.
+- **Anti-Bloat:** I value code that is functional and concise.
 - **Automation-First:** If I have to do it twice, I write a script. I thrive in command-line environments and prioritize automated workflows.
 - **Security-Minded:** From IAM roles to secret management, I build with a "Zero Trust" mindset.
-- **Documentation:** I have a habit of documenting my work, for my own future reference and for anyone else who might maintain the system. Code tells you how, docs tell you why.
+- **Documentation:** I have a habit of documenting my work, for my own future reference and for anyone else who might maintain the system.
 
 
 ---
